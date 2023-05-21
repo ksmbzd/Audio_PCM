@@ -37,12 +37,17 @@ The code contains several functions for different tasks:
 - push10: Plots all signals in one figure.
 - push11: Plots the error difference between the original and reconstructed signals.
 
-## Interface of Our Application
+## Result
 
 ![Interface Screenshot](https://raw.githubusercontent.com/ksmbzd/Audio_PCM/main/results/interface.PNG)
 
 This is the interface of our application. From here, you can choose the input audio file and start processing it.
 
+## Visualizing All Signals
+
+![All Signals Screenshot](https://raw.githubusercontent.com/ksmbzd/Audio_PCM/main/results/all_signals.PNG)
+
+This image represents the visualization of all signals processed by our application. 
 
 
 
